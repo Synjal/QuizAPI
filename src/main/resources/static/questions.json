@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "answers": ["Paris", "Londres", "Berlin", "Madrid"],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "Quel est l'organe principal du système respiratoire humain ?",
+    "answers": ["Le cœur", "Les reins", "Les poumons", "Le foie"],
+    "correct_answer": "Les poumons"
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "answers": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "answers": ["L'océan Atlantique", "L'océan Arctique", "L'océan Indien", "L'océan Pacifique"],
+    "correct_answer": "L'océan Pacifique"
+  },
+  {
+    "question": "Qui est l'auteur de 'Romeo et Juliette' ?",
+    "answers": ["William Shakespeare", "Jane Austen", "Charles Dickens", "F. Scott Fitzgerald"],
+    "correct_answer": "William Shakespeare"
+  },
+  {
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "answers": ["Vénus", "Mercure", "Mars", "Jupiter"],
+    "correct_answer": "Mercure"
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "answers": ["Le désert de Gobi", "Le Sahara", "Le désert du Kalahari", "Le désert d'Atacama"],
+    "correct_answer": "Le Sahara"
+  },
+  {
+    "question": "Qui a écrit 'Harry Potter' ?",
+    "answers": ["J.K. Rowling", "Stephenie Meyer", "J.R.R. Tolkien", "George R.R. Martin"],
+    "correct_answer": "J.K. Rowling"
+  },
+  {
+    "question": "Quel est le plus long fleuve du monde ?",
+    "answers": ["Le Nil", "Le Mississippi", "L'Amazone", "Le Yangzi Jiang"],
+    "correct_answer": "L'Amazone"
+  },
+  {
+    "question": "Qui a découvert la gravité ?",
+    "answers": ["Albert Einstein", "Isaac Newton", "Galilée", "Stephen Hawking"],
+    "correct_answer": "Isaac Newton"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'oxygène ?",
+    "answers": ["O", "Au", "H", "C"],
+    "correct_answer": "O"
+  },
+  {
+    "question": "Dans quelle ville se trouve la tour de Pise ?",
+    "answers": ["Rome", "Pise", "Florence", "Venise"],
+    "correct_answer": "Pise"
+  },
+  {
+    "question": "Qui a peint 'La nuit étoilée' ?",
+    "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correct_answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "answers": ["L'éléphant", "Le rhinocéros", "Le gorille", "Le lion"],
+    "correct_answer": "L'éléphant"
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "answers": ["Yen", "Dollar", "Euro", "Livre"],
+    "correct_answer": "Yen"
+  },
+  {
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "answers": ["Antoine de Saint-Exupéry", "Victor Hugo", "Marcel Proust", "Emile Zola"],
+    "correct_answer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "question": "Quel est le plus grand pays du monde en superficie ?",
+    "answers": ["Canada", "Chine", "Russie", "États-Unis"],
+    "correct_answer": "Russie"
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "answers": ["Mont Everest", "Mont Kilimandjaro", "Mont Blanc", "Mont McKinley"],
+    "correct_answer": "Mont Everest"
+  },
+  {
+    "question": "Qui a inventé l'ampoule électrique ?",
+    "answers": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Galilée"],
+    "correct_answer": "Thomas Edison"
+  },
+  {
+    "question": "Quelle est la couleur du ciel lors d'un coucher de soleil ?",
+    "answers": ["Rouge", "Bleu", "Vert", "Jaune"],
+    "correct_answer": "Rouge"
+  },
+  {
+    "question": "Quelle est la plus grande île du monde ?",
+    "answers": ["Groenland", "Australie", "Borneo", "Madagascar"],
+    "correct_answer": "Groenland"
+  }
+]
